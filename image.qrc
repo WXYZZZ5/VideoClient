@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/head.png</file>
+        <file>picture/loginPicture.jpg</file>
+        <file>picture/next.png</file>
+        <file>picture/prev.png</file>
+        <file>picture/pause.png</file>
+        <file>picture/play.png</file>
+        <file>picture/videoList.png</file>
+        <file>picture/volume.png</file>
+        <file>picture/speed.png</file>
+        <file>picture/scale.png</file>
+        <file>picture/config.png</file>
+        <file>picture/screenShot.png</file>
+        <file>picture/videoBackground.png</file>
+        <file>picture/videoPageBackground.png</file>
+        <file>picture/fullScreen.png</file>
+        <file>picture/deleteVideo.png</file>
+        <file>picture/addVideo.png</file>
+        <file>picture/videoSlider.png</file>
+        <file>picture/volumeSlider.png</file>
+        <file>picture/comboBox.png</file>
+        <file>picture/playList.png</file>
+        <file>shaderSource/source.frag</file>
+        <file>shaderSource/source.vert</file>
+        <file>picture/logo.png</file>
+    </qresource>
+</RCC>
