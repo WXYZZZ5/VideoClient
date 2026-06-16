@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# 忽略整个 build 文件夹（新增）
+build/
