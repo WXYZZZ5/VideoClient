@@ -555,7 +555,7 @@ void FFPlayerWindow::on_deleteVideoBtn_clicked()
         }
         removeVideoFromList(item);
     }
-
+    savePlaylist();
 }
 
 void FFPlayerWindow::savePlaylist()

@@ -2,6 +2,8 @@
 
 基于 FFmpeg + Qt5 + OpenGL 的跨平台视频播放器，支持本地文件播放、多线程解码、音视频同步、变速播放及播放列表管理。
 
+![项目演示](videoclient-ezgif.com-video-to-gif-converter.gif)
+
 ## 项目结构
 
 | 目录 | 职责 |
